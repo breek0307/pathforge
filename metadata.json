@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PathForge",
+  "description": "AI-powered instant learning path generator using multimodal Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
